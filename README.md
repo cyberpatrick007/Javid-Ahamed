@@ -55,7 +55,7 @@ No frameworks, no build step — just open `index.html` in a browser.
 ```
 .
 ├── index.html      # Main portfolio page (structure, styles, and scripts)
-└── Resume.png       # Downloadable resume
+└── Resume.pdf       # Downloadable resume
 ```
 
 ## 🚀 Getting Started
@@ -68,11 +68,8 @@ cd Javid-Ahamed
 open index.html   # or just double-click the file
 ```
 
-To deploy with **GitHub Pages**:
-1. Push this repo to GitHub
-2. Go to **Settings → Pages**
-3. Select the `main` branch and `/root` folder
-4. Your site will be live at `https://github.com/cyberpatrick007/Javid-Ahamed`
+**GitHub Pages**:
+Our site will be live at `https://cyberpatrick007.github.io/Javid-Ahamed/`
 
 ## 📬 Contact
 
@@ -82,7 +79,7 @@ To deploy with **GitHub Pages**:
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License](LICENSE.md).
 
 ---
 
